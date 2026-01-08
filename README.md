@@ -1,11 +1,11 @@
-# 🌊 Tsunami Prediction AI
+# 🌊 Tsunami Prediction 
 
 A Machine Learning application that predicts the risk of a tsunami following an earthquake. 
 Built with **Python**, **Streamlit**, and **Scikit-Learn**.
 
 ## 🚀 Live Demo
-[Click here to view the App](https://share.streamlit.io/YOUR_USERNAME/tsunami-predictor) 
-*(Replace with your actual Streamlit URL)*
+[Click here to view the App]https://ajitesh68-tsunami-predictor-app-mv7dfm.streamlit.app/
+
 
 ## 🧠 How It Works
 This model analyzes real-time earthquake parameters to classify tsunami risk:
